@@ -11,7 +11,7 @@ Choose your fighters.
 Start the fight.
 Watch them compete.
 Build with the winner.
-![LLM Fight Club Banner](./assets/banner.png)
+https://github.com/bored2boar/LLM-FIGHT-CLUB/raw/main/assets/banner.png
 
 ---
 
