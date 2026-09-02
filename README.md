@@ -11,6 +11,7 @@ Choose your fighters.
 Start the fight.
 Watch them compete.
 Build with the winner.
+![Banner](assets/banner.png)
 
 ---
 
