@@ -1,4 +1,4 @@
-# LLM FIGHT CLUB
+# LLM FIGHT CLUB 1
 
 > **Give the models a task. Let them fight. Build with the winner.**
 
