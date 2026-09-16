@@ -6,7 +6,7 @@
 
 Instead of asking *"Which LLM is the best?"*, you give the models the task and let them prove it.
 
-Pick a task.
+Pick a task here.
 Choose your fighters.
 Start the fight.
 Watch them compete.
